@@ -14,8 +14,8 @@ The raw files were scapped in power query, merged and saved into Microsoft excel
 
 # Findings & Recommendation
 ## Findings
-To investigate the spread of the pandemic across countries globally,the total confirmed cases globally from jan, 2020 to june 16, 2022 sums up to 150,795,270,862 at 1.76% mortality rate.
-Result also shows the highest confirmed cases of COVID-19 was recorded in the US (28,026,887,143) while North Korea recorded the lowest confirmed cases (34) globally. 
+To investigate the spread of the pandemic across countries globally,the total confirmed cases globally from jan, 2020 to june 16, 2022 sums up to 537,865,617 at 1.17% mortality rate.
+Result also shows the highest confirmed cases of COVID-19 was recorded in the US (86,057,735) while North Korea recorded the lowest confirmed cases (1) globally. 
  
 ## Recommendation 
 With the high rate of confirmed cases of COVID-19 and 1.76% mortality rate globally since jan 2020 to june 17, 2022, confirmed cases are being recorded everyday.
